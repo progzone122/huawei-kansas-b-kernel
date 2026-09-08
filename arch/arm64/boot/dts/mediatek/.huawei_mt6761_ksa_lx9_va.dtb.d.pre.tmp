@@ -1,0 +1,37 @@
+huawei_mt6761_ksa_lx9_va.o: \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va.dts \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6761-pinfunc.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6761-msdc.h \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6761-clk.h \
+ arch/arm64/boot/dts/mediatek/huawei_audio/huawei_mt6735_accdet.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_common.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_dev_detect/huawei_dev_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_antenna_gpio_detect/huawei_antenna_gpio_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-led.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../huawei_tpkit/amn/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-charger.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-wifi.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-gnss.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-lcd.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/devkit_lcd_kit.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_auo_otm1901a_5p2_1080p_video_default.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_boe_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_inx_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_truly_hx8394f_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_trulyh_hsd_hx8394f_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_txd_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../lcdkit3.0/ksa/ksa_txdh_hsd_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-fingerprint.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-audio.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-fm.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-sensor.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/ksa_thermal_ntc.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei_sw_thermal_node.dtsi \
+ arch/arm64/boot/dts/k61v1_64_mexico/cust.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/huawei-camera.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_ksa_lx9_va/../huawei-mt6761-camera-amn.dtsi

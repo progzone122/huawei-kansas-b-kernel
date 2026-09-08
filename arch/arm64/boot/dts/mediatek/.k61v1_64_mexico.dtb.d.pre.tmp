@@ -1,0 +1,9 @@
+k61v1_64_mexico.o: arch/arm64/boot/dts/mediatek/k61v1_64_mexico.dts \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6761-pinfunc.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6761-msdc.h \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6761-clk.h \
+ arch/arm64/boot/dts/mediatek/huawei-wifi.dtsi \
+ arch/arm64/boot/dts/k61v1_64_mexico/cust.dtsi

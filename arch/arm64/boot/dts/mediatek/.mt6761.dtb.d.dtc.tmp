@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/mediatek/mt6761.dtb: arch/arm64/boot/dts/mediatek/.mt6761.dtb.dts.tmp arch/arm64/boot/dts/mediatek/earlymount_huawei.dtsi

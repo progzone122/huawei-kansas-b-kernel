@@ -1,0 +1,37 @@
+huawei_mt6761_amn_l29_vb.o: \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb.dts \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6761-pinfunc.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6761-msdc.h \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6761-clk.h \
+ arch/arm64/boot/dts/mediatek/huawei_audio/huawei_mt6735_accdet.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_common.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_dev_detect/huawei_dev_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_antenna_gpio_detect/huawei_antenna_gpio_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-led.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../huawei_tpkit/amn/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-charger.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-wifi.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-gnss.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-lcd.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/devkit_lcd_kit.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_auo_otm1901a_5p2_1080p_video_default.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_boe_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_inx_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_truly_hx8394f_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_trulyh_hsd_hx8394f_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_txd_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../lcdkit3.0/amman/amman_txdh_hsd_ili9881c_5p71_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-fingerprint.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-audio.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-fm.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-sensor.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/amman_thermal_ntc.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei_sw_thermal_node.dtsi \
+ arch/arm64/boot/dts/k61v1_64_mexico/cust.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/huawei-camera.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_amn_l29_vb/../huawei-mt6761-camera-amn_l23.dtsi

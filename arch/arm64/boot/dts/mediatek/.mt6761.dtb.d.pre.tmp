@@ -1,0 +1,18 @@
+mt6761.o: arch/arm64/boot/dts/mediatek/mt6761.dts \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6761-pinfunc.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ arch/arm64/boot/dts/include/dt-bindings/memory/mt6761-larb-port.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6761-msdc.h \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6761-clk.h \
+ arch/arm64/boot/dts/include/dt-bindings/iio/mt635x-auxadc.h \
+ arch/arm64/boot/dts/include/dt-bindings/gce/mt6765-gce.h \
+ include/generated/autoconf.h \
+ arch/arm64/boot/dts/mediatek/mt6761_itrustee.dtsi \
+ arch/arm64/boot/dts/mediatek/bat_setting/mt6761_battery_prop_ext.dtsi \
+ arch/arm64/boot/dts/mediatek/bat_setting/mt6761_battery_table_ext.dtsi \
+ arch/arm64/boot/dts/mediatek/cust_mt6761_msdc.dtsi \
+ arch/arm64/boot/dts/mediatek/mt6357.dtsi \
+ arch/arm64/boot/dts/mediatek/mt6370.dtsi \
+ arch/arm64/boot/dts/mediatek/mt6370_pd.dtsi

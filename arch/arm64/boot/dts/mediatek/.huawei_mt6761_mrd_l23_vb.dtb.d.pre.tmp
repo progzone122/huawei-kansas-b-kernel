@@ -1,0 +1,36 @@
+huawei_mt6761_mrd_l23_vb.o: \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb.dts \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6761-pinfunc.h \
+ arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6761-msdc.h \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6761-clk.h \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_common.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_dev_detect/huawei_dev_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_common/huawei_antenna_gpio_detect/huawei_antenna_gpio_detect.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-led.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../huawei_tpkit/mrd/huawei-tp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-charger.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-gnss.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-wifi.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-lcd.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/devkit_lcd_kit.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_auo_otm1901a_5p2_1080p_video_default.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_dsbj_ili9881c_6p08_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_hx_hx8394f_6p08_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_ofilm_hx8394f_6p08_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_ofilmi_inx_hx8394f_6p08_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../lcdkit3.0/mad/mad_txd_hx8394f_6p08_720p_video.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-fingerprint.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-scp.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/madrid_thermal_ntc.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei_sw_thermal_node.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_audio/huawei_mt6735_accdet.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_audio/huawei_mt676x_audio_gpio.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_audio/cs35l41.dtsi \
+ arch/arm64/boot/dts/k61v1_64_mexico/cust.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/huawei-camera.dtsi \
+ arch/arm64/boot/dts/mediatek/huawei_mt6761_mrd_l23_vb/../huawei-mt6761-camera-mrd.dtsi
