@@ -1,0 +1,64 @@
+# Kernel build artifacts
+*.o
+*.o.d
+*.o.cmd
+.*.cmd
+.*.d
+*.d
+*.a
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symtypes
+*.oas
+*.dtb
+*.dtbo
+*.dtb.d
+*.swo
+*.swp
+*~
+.tmp_*
+modules.order
+modules.builtin
+
+# Generated config / headers
+.config
+.config.old
+include/generated/
+include/config/
+arch/arm64/include/generated/
+
+# Top-level build outputs
+/vmlinux
+/vmlinux.o
+/.vmlinux.cmd
+/System.map
+/Module.symvers
+/.version
+/.missing-syscalls.d
+/.tmp_versions/
+
+# Boot output
+/arch/arm64/boot/Image
+/arch/arm64/boot/Image.gz
+/arch/arm64/boot/Image.gz-dtb
+
+# Host build tools (generated)
+/scripts/basic/fixdep
+/scripts/genksyms/genksyms
+/scripts/mod/modpost
+/scripts/mod/devicetable-offsets.h
+/scripts/kconfig/conf
+/scripts/kconfig/zconf.tab.c
+/scripts/kconfig/zconf.hash.c
+/scripts/dtc/dtc
+/scripts/dtc/dtc_overlay
+/scripts/dtc/ufdt_apply_overlay
+/scripts/dtc/dt_to_config
+/scripts/dtc/version_gen.h
+/scripts/dtc/dtc-lexer.lex.c
+/scripts/dtc/dtc-parser.tab.c
+/scripts/dtc/dtc-parser.tab.h
+/scripts/selinux/genheaders
+/scripts/selinux/mdp/mdp
