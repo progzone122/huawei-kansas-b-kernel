@@ -1,6 +1,8 @@
 # MT6761 Kernel 4.9.117 (Android)
 
-Huawei/MediaTek **Merlot Phone** (K61) Android kernel — Linux **4.9.117** for the **MT6761** (Helio A22) platform.
+Huawei Y5 2019 Downstream Android kernel.
+
+Linux **4.9.117** for the **MT6761** (Helio A22) platform.
 
 Defconfig: `merge_full_k61v1_64_mex_a32_defconfig`. Built and verified with the `aarch64-linux-android-4.9` (GCC 4.9) cross-toolchain, configured for an ARM64 device tree blob in the final image.
 
